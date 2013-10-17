@@ -15,6 +15,7 @@ Ubuntu VirtualBox hjá Söru:
 ![Alt text](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/1383204_10151803499803876_1334967456_n.jpg)
 
 Linux Mint hjá Birgittu:
+
 ![Alt text](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/p206x206/1235478_10151803498243876_1051556867_n.jpg)
 
 ## 2. Uppsetning á vim && git
