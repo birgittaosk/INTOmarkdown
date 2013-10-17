@@ -30,8 +30,6 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
   - Notar GNU General Public Licence
   - Source Code: http://archive.ubuntu.com/ubuntu/
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
