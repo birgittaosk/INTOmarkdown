@@ -6,7 +6,9 @@
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk illa að setja Linux á allar tölvurnar, en þó sérstaklega Birgittu þar sem netið
+virkaði ekki í Linux Mint umhverfinu sem hún reyndi að setja upp.  Við enduðum á að nota 
+bara 2 tölvur í stað 3.  
 
 Ubuntu VirtualBox hjá Erlu:
 ![Alt text](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/1377019_10151803494283876_178533015_n.jpg)
@@ -20,15 +22,15 @@ Linux Mint hjá Birgittu:
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
-
+Engin vandamál.
 
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Það gekk vel að forka verkefnin og að deila því á milli okkar.  Hins vegar lentum við í smá vandræðum
+þegar við ætluðum allar að breyta kóðanum inn í NIM.cpp skránni.  Fundum út úr því á endanum og allt gekk upp.
+Þegar við ætluðum að láta annan notanda (Birgittu) nota sömu tölvu, gekk það hins vegar ekki fyrr en við gerðum
+config skipunina aftur með nýju e-maili.
 
 ## 4. Uppsettur hugbúnaður
 
@@ -44,4 +46,5 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Í heildina var þetta langdregið, en auðvelt verkefni.  Það var allt vesen og 
+því tók þetta mjög langan tíma miðað við erfiðleika og vægi verkefnisins.
