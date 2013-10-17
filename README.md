@@ -2,7 +2,7 @@
 
 * Erla Harðardóttir
 * Birgitta Ósk Rúnarsdóttir
-* Sara Rósa Kolodziej
+* Sara Rós Kolodziej
 
 ## 1. Linux uppsetning
 
@@ -21,6 +21,8 @@ Linux Mint hjá Birgittu:
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
+
+
 
 ## 3. Unnið með Git (1. hluti)
 
