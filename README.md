@@ -30,7 +30,8 @@ Engin vandamál.
 Það gekk vel að forka verkefnin og að deila því á milli okkar.  Hins vegar lentum við í smá vandræðum
 þegar við ætluðum allar að breyta kóðanum inn í NIM.cpp skránni.  Fundum út úr því á endanum og allt gekk upp.
 Þegar við ætluðum að láta annan notanda (Birgittu) nota sömu tölvu, gekk það hins vegar ekki fyrr en við gerðum
-config skipunina aftur með nýju e-maili.
+config skipunina aftur með nýju e-maili.  
+Github síða: https://github.com/erla1011/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
