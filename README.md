@@ -23,8 +23,12 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 * Open Office 
   - Notar LGPLv3 licence 
   - Source Code: http://www.openoffice.org/download/source/ 
-* GIMP: GNU GENERAL PUBLIC LICENSE version 3 - Source Code: http://www.gimp.org/source/#source 
-* Ubuntu: Notar GNU General Public Licence - http://archive.ubuntu.com/ubuntu/
+* GIMP 
+  - Notar GNU General Public License version 3
+  - Source Code: http://www.gimp.org/source/#source 
+* Ubuntu 
+  - Notar GNU General Public Licence
+  - Source Code: http://archive.ubuntu.com/ubuntu/
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
