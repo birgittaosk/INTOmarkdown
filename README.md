@@ -1,8 +1,8 @@
 #Open Source
 
-*Erla Harðardóttir
-*Birgitta Ósk Rúnarsdóttir
-*Sara Rósa Kolodziej
+* Erla Harðardóttir
+* Birgitta Ósk Rúnarsdóttir
+* Sara Rósa Kolodziej
 
 ## 1. Linux uppsetning
 
