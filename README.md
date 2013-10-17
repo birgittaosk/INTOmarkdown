@@ -1,5 +1,6 @@
 #Open Source
 
+Höfundar verkefnis:
 * Erla Harðardóttir
 * Birgitta Ósk Rúnarsdóttir
 * Sara Rós Kolodziej
