@@ -23,7 +23,7 @@ Linux Mint hjá Birgittu:
 
 ## 2. Uppsetning á vim && git
 
-Engin vandamál.
+Engin vandamál og var mjög fljótlegt og létt.
 
 
 ## 3. Unnið með Git (1. hluti)
@@ -48,5 +48,5 @@ Github síða: https://github.com/erla1011/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Í heildina var þetta langdregið, en auðvelt verkefni.  Það var allt vesen og 
+Í heildina var þetta langdregið, en auðvelt verkefni.  Við lentum í veseni með margt og 
 því tók þetta mjög langan tíma miðað við erfiðleika og vægi verkefnisins.
