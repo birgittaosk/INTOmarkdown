@@ -8,8 +8,9 @@ Höfundar verkefnis:
 ## 1. Linux uppsetning
 
 Það gekk illa að setja Linux á allar tölvurnar, en þó sérstaklega Birgittu þar sem netið
-virkaði ekki í Linux Mint umhverfinu sem hún reyndi að setja upp.  Við enduðum á að nota 
-bara 2 tölvur í stað 3.  
+virkaði ekki í Linux Mint umhverfinu sem hún setti upp. Við enduðum á að nota bara tvær tölvur í stað þriggja fyrir 
+partinn sem þarfnaðist nets. Hjá Erlu og Söru var sett upp Ubuntu í VirtualBox sem virkaði á endanum eftir smá áreynslu 
+en var svo þægilegt í notkun.
 
 Ubuntu VirtualBox hjá Erlu:
 ![Alt text](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/1377019_10151803494283876_178533015_n.jpg)
@@ -28,11 +29,12 @@ Engin vandamál og var mjög fljótlegt og létt.
 
 ## 3. Unnið með Git (1. hluti)
 
-Það gekk vel að forka verkefnin og að deila því á milli okkar.  Hins vegar lentum við í smá vandræðum
-þegar við ætluðum allar að breyta kóðanum inn í NIM.cpp skránni.  Fundum út úr því á endanum og allt gekk upp.
+Það gekk vel að forka verkefnin og að deila því á milli okkar. Hins vegar lentum við í smá vandræðum
+þegar við ætluðum allar að breyta kóðanum inn í NIM.cpp skránni. Fundum út úr því á endanum og allt gekk upp.
 Þegar við ætluðum að láta annan notanda (Birgittu) nota sömu tölvu, gekk það hins vegar ekki fyrr en við gerðum
 config skipunina aftur með nýju e-maili.  
-Github síða: https://github.com/erla1011/INTOPrufa
+
+Github linkur: https://github.com/erla1011/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
@@ -48,5 +50,8 @@ Github síða: https://github.com/erla1011/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Í heildina var þetta langdregið, en auðvelt verkefni.  Við lentum í veseni með margt og 
-því tók þetta mjög langan tíma miðað við erfiðleika og vægi verkefnisins.
+Allt gekk mjög vel með þennan part af verkefninu og engin vandræði komu upp. Erfiðast var að gera listana og myndirnar en
+miðað við annað í verkefninu þá var þetta ekkert mál.
+
+Í heildina var þetta langdregið, en auðvelt verkefni. Við lentum í veseni með margt og 
+því tók þetta heldur langan tíma sem tókst þó á endanum.
